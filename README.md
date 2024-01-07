@@ -25,11 +25,11 @@ The assignment for Nexus Interns involves developing the front-end components of
 
 ## CSS CODE
 
-:root{
-    --primary:      #ff5349;
-    --secondary:    #151515;
-    --font:         #ffffff;
-    --font-family:  'Arial', sans-serif;
+:root{ <br>
+    --primary:      #ff5349; <br>
+    --secondary:    #151515; <br>
+    --font:         #ffffff; <br>
+    --font-family:  'Arial', sans-serif; <br>
 }
 
 ---
